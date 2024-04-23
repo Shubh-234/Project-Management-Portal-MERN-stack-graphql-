@@ -18,7 +18,8 @@
     "graphql": "^15.8.0",
     "latest": "^0.2.0",
     "mongodb": "^6.5.0",
-    "mongoose": "^8.3.1"
+    "mongoose": "^8.3.1",
+    "npm": "^10.5.2"
   },
   "devDependencies": {
     "dotenv": "^16.4.5",
