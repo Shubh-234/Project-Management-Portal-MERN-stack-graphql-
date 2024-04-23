@@ -13,7 +13,7 @@ const app = express();
 connectDB();
 
 app.use(cors({
-  origin: ['http://localhost:3000','https://projectmgmt.vercel.app/'],
+  origin: ['http://localhost:3000','https://project-management-portal-mern-stack-graphql.vercel.app/'],
   credentials: true,
 }));
 app.use('/graphql',graphqlHTTP({
